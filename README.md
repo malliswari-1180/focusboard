@@ -2,13 +2,15 @@
 
 A responsive, single-user task dashboard built with **React 18 + Vite** (JavaScript, plain CSS). It is frontend only: no backend, login or external API.
 
-- 
+- **Live Link:** https://focusboard-blond.vercel.app/
 - **GitHub:** https://github.com/malliswari-1180/focusboard
 
 ## Screenshots
 | Desktop (1440px) | Mobile (390px) |
 |---|---|
-| ![Desktop](src\screenshots\desktop.png) | ![Mobile](src\screenshots\mobile.png) |
+| ![Desktop](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ddeaf9a4-a716-43b7-89e3-d46a52e314e3" />
+) | ![Mobile](<img width="720" height="1600" alt="WhatsApp Image 2026-11-22 at 11 12 04" src="https://github.com/user-attachments/assets/4d843762-f9fb-4597-b170-177394d12378" />
+) |
 
 ## Setup
 Requires Node.js 18 or newer.
